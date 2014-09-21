@@ -1,0 +1,7 @@
+##Text Editor
+=============
+copy and paste this in new tab and use it as a text editor.
+data:text/html,&lthtml contenteditable&gt&ltTitle&gtNotepad&lt/Title&gt
+
+###or 
+Use text_editor.html on new tab.
