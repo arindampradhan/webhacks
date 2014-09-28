@@ -8,10 +8,9 @@ Coursera Video Preview downloader
 * Use wget or curl to download the videos.
 
 ##Requirements
-==============
 	pip install -r requirements.txt
 
-
+	python coursera_list.py
 ##How to use :
 
 > ###Copy and paste the coursera preview urls
