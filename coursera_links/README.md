@@ -13,21 +13,20 @@ Coursera Video Preview downloader
 
 
 ##How to use :
-==============
 
 > ###Copy and paste the coursera preview urls
 
-[!1](https://github.com/arindampradhan/webhacks)
+[!1](https://github.com/arindampradhan/webhacks/_pics/1.png)
 
 > ###A keep folder will be generated which has the links for the urls of the pdfs , ppts and videos.
 
 
-[!2](https://github.com/arindampradhan/webhacks)
+[!2](https://github.com/arindampradhan/webhacks/_pics/2.png)
 
 > ###Use ````wget -i <filename>```command to iteratively download the required videos
 
-[!3](https://github.com/arindampradhan/webhacks) 
+[!3](https://github.com/arindampradhan/webhacks/_pics/3.png) 
 
-[!4](https://github.com/arindampradhan/webhacks)
+[!4](https://github.com/arindampradhan/webhacks/_pics/4.png)
 
 > Just delete the url videos u don't need from the files.
