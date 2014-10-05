@@ -22,7 +22,7 @@ Coursera Video Preview downloader
 
 ![2](https://github.com/arindampradhan/webhacks/blob/master/coursera_links/_pics/2.png)
 
-> ###Use ````wget -i <filename>```command to iteratively download the required videos
+> ###Use ```wget -i <filename>```command to iteratively download the required videos
 
 ![3](https://github.com/arindampradhan/webhacks/blob/master/coursera_links/_pics/3.png) 
 
