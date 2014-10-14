@@ -1,0 +1,14 @@
+folder$ python -m SimpleHTTPServer 8000
+
+Run this command on the specified folder and it will share that specified folder...on 
+
+
+http://your_ip_address:8000
+
+ifconfig:
+
+inet addr:***.***.*.*
+your_ip_address=inet addr
+
+
+
